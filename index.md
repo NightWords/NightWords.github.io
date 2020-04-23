@@ -8,17 +8,17 @@ There are some music player.
 <!-- require MetingJS -->
 <script src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script>
 <meting-js
-	id="2711370"
+	id="643137029"
 	server="netease"
-	type="album"
+	type="playlist"
 	fixed="true"
 	autoplay="true"
 	theme="#e6e6e6"
 	order="list"
 	list-folded="false"
-    	loop="none"
 		   >
 </meting-js>
+
 
 ### BRAND NEW WORLD
 
