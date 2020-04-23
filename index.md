@@ -71,7 +71,7 @@ There are some music player.
 	server="netease"
 	type="playlist"
 	fixed="false"
-	autoplay="true"
+	autoplay="false"
 	theme="#e6e6e6"
 	order="list"
     loop="none"
