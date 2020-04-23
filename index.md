@@ -1,4 +1,5 @@
 ## Welcome to My Pages
+
 There are some music player.
 
 <!-- require APlayer -->
@@ -7,30 +8,25 @@ There are some music player.
 <!-- require MetingJS -->
 <script src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script>
 <meting-js
-id="2711370"
+	id="2711370"
 	server="netease"
 	type="album"
-	fixed="false"
+	fixed="true"
 	autoplay="true"
 	theme="#e6e6e6"
 	order="list"
 	list-folded="false"
-    loop="none"
+    	loop="none"
 		   >
 </meting-js>
 
 ### BRAND NEW WORLD
 
-<!-- music player -->
 <!-- require APlayer -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
-
 <script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
-
 <!-- require MetingJS -->
-
 <script src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script>
-
 <meting-js
 	id="4938683"
 	server="netease"
@@ -39,8 +35,7 @@ id="2711370"
 	autoplay="false"
 	order="list"
 	list-folded="false"
-loop="none"
-
+	loop="none"
 </meting-js>
 
 ### ZIGAEXPERIENTIA-supercell
