@@ -78,7 +78,8 @@ Welcome to follow [my netease music](https://music.163.com/#/user/home?id=556412
   theme="#e6e6e6"
   order="list"
   list-folded="false"
-       >
+  lyric="false"
+      >
 </meting-js>
 
 ### BRAND NEW WORLD
@@ -117,8 +118,7 @@ Welcome to follow [my netease music](https://music.163.com/#/user/home?id=556412
 	order="list"
 	list-folded="false"
     	loop="none"
-	lyric="false"
-		   >
+	   >
 </meting-js>
 
 ### Key Channel Top 20
