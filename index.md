@@ -116,7 +116,8 @@ Welcome to follow [my netease music](https://music.163.com/#/user/home?id=556412
 	theme="#e6e6e6"
 	order="list"
 	list-folded="false"
-    loop="none"
+    	loop="none"
+	lyric="false"
 		   >
 </meting-js>
 
