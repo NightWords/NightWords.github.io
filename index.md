@@ -118,6 +118,7 @@ Welcome to follow [my netease music](https://music.163.com/#/user/home?id=556412
 	order="list"
 	list-folded="false"
     	loop="none"
+	list-max-height="100%"
 	   >
 </meting-js>
 
@@ -136,7 +137,8 @@ Welcome to follow [my netease music](https://music.163.com/#/user/home?id=556412
 	autoplay="false"
 	theme="#e6e6e6"
 	order="list"
-    loop="none"
+    	loop="none"
 	list-folded="false"
+	list-max-height="100%"
 		   >
 </meting-js>
