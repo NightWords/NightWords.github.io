@@ -18,7 +18,6 @@ Welcome to follow <a href="https://music.163.com/#/user/home?id=55641291" target
   theme="#e6e6e6"
   order="list"
   list-folded="false"
-  lrc-type="0"
   list-max-height="330px"
         >
 </meting-js>
