@@ -19,8 +19,7 @@ Welcome to follow [my netease music](https://music.163.com/#/user/home?id=556412
   order="list"
   list-folded="false"
   lrc-type="0"
-  list-max-height="600px"
-      >
+        >
 </meting-js>
 
 ### BRAND NEW WORLD
