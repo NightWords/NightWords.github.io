@@ -2,7 +2,7 @@
 
 There are some music players.
 
-Welcome to follow [[my netease music](https://music.163.com/#/user/home?id=55641291)]
+Welcome to follow [[my netease music]](https://music.163.com/#/user/home?id=55641291)
 
 <!-- require APlayer -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
