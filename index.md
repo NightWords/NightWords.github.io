@@ -41,7 +41,7 @@ Welcome to follow <a href="https://music.163.com/#/user/home?id=55641291" target
 		   >
 </meting-js>
 
-### ZIGAEXPERIENTIA-supercell
+### ZIGAEXPERIENTIA - supercell
 
 <!-- require APlayer -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
