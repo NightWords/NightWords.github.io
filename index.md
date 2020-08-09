@@ -3,6 +3,7 @@
 There are some music players.
 
 Welcome to follow <a href="https://music.163.com/#/user/home?id=55641291" target="_blank">[my netease music]</a>
+<a href="https://y.qq.com/portal/profile.html?uin=7KcAoK4k7w6z" target="_blank">[my QQ music]</a>
 
 <!-- require APlayer -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
@@ -10,8 +11,8 @@ Welcome to follow <a href="https://music.163.com/#/user/home?id=55641291" target
 <!-- require MetingJS -->
 <script src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script>
 <meting-js
-  id="643137029"
-  server="netease"
+  id="7541685313"
+  server="tencenthttps://y.qq.com/portal/profile.html?uin=7KcAoK4k7w6z"
   type="playlist"
   fixed="false"
   autoplay="true"
