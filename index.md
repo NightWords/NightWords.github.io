@@ -12,7 +12,7 @@ Welcome to follow <a href="https://music.163.com/#/user/home?id=55641291" target
 <script src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script>
 <meting-js
   id="7541685313"
-  server="tencenthttps://y.qq.com/portal/profile.html?uin=7KcAoK4k7w6z"
+  server="tencent"
   type="playlist"
   fixed="false"
   autoplay="true"
