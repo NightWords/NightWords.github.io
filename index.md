@@ -6,14 +6,12 @@
 </script>
 
 <article class="entry heti">
-	<h1>Welcome to My Pages</h1>
-	
-	<p>There are some music players.
-	Welcome to follow <a href="https://music.163.com/#/user/home?id=55641291" target="_blank">[my netease music]</a>
+	<h1>Welcome to My Pages</h1>	
+	<p>There are some music players.</p>
+	<p>Welcome to follow <a href="https://music.163.com/#/user/home?id=55641291" target="_blank">[my netease music]</a>
 	<a href="https://y.qq.com/portal/profile.html?uin=7KcAoK4k7w6z" target="_blank">[my QQ music]</a>
-	<a href="https://www.yuque.com/nightwords/blog" target="_blank">[My blog]</a>
+	<a href="https://www.yuque.com/nightwords/blog" target="_blank">[My blog(夜语·语雀)]</a>
 	</p>
-	
 	<!-- require APlayer -->
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
 	<script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
@@ -89,7 +87,6 @@
 		list-max-height="1200px"
 			   >
 	</meting-js>
-
 </article>
 
 
