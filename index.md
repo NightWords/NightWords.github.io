@@ -11,6 +11,7 @@
 	<p>Welcome to follow <a href="https://music.163.com/#/user/home?id=55641291" target="_blank">[my netease music]</a>
 	<a href="https://y.qq.com/portal/profile.html?uin=7KcAoK4k7w6z" target="_blank">[my QQ music]</a>
 	<a href="https://www.yuque.com/nightwords/blog" target="_blank">[My blog(夜语·语雀)]</a>
+	<a href="https://steamcommunity.com/id/582155610/" target="_blank">[Steam]</a>	
 	</p>
 	<!-- require APlayer -->
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
@@ -22,7 +23,7 @@
 	  server="tencent"
 	  type="playlist"
 	  fixed="false"
-	  autoplay="true"
+	  autoplay="false"
 	  theme="#e6e6e6"
 	  order="list"
 	  list-folded="false"
